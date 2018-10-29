@@ -1,0 +1,111 @@
+1540397633618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.PmBXbeXW5Ndd"
+
+(firefox:2918): Gtk-WARNING **: 19:13:56.363: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2918): Gtk-WARNING **: 19:13:56.363: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540397640650	Marionette	INFO	Listening on port 40515
+1540397640724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540397640839	Marionette	DEBUG	[2147483649] Frame script loaded
+1540397640858	Marionette	DEBUG	[2147483649] Frame script registered
+1540397640939	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540397642043	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540397642474	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540397643660	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540401671882	Marionette	DEBUG	[4294967297] Frame script loaded
+1540401671903	Marionette	DEBUG	[4294967297] Frame script registered
+1540401672092	Marionette	DEBUG	[4294967299] Frame script loaded
+1540401672095	Marionette	DEBUG	[4294967299] Frame script registered
+1540401672655	Marionette	DEBUG	[4294967303] Frame script loaded
+1540401672657	Marionette	DEBUG	[4294967303] Frame script registered
+1540401676798	Marionette	INFO	Stopped listening on port 40515
+1540406619019	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qGtlyM2lPI8Q"
+
+(firefox:2343): Gtk-WARNING **: 21:43:41.707: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2343): Gtk-WARNING **: 21:43:41.707: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540406626271	Marionette	INFO	Listening on port 39943
+1540406626384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540406626505	Marionette	DEBUG	[2147483649] Frame script loaded
+1540406626508	Marionette	DEBUG	[2147483649] Frame script registered
+1540406626580	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540406627437	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540406627756	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540406629879	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2343, Gecko_IOThread] WARNING: pipe error (60): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540406646254	Marionette	INFO	Stopped listening on port 39943
+1540406662554	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Hh8F2Ba6pnLZ"
+
+(firefox:2586): Gtk-WARNING **: 21:44:24.445: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2586): Gtk-WARNING **: 21:44:24.446: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540406667952	Marionette	INFO	Listening on port 36523
+1540406667994	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540406668109	Marionette	DEBUG	[2147483649] Frame script loaded
+1540406668123	Marionette	DEBUG	[2147483649] Frame script registered
+1540406668173	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540406669142	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540406669663	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540406670885	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2586, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540406694325	Marionette	INFO	Stopped listening on port 36523
+1540406696677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.FTnRmhjfX3GW"
+
+(firefox:2802): Gtk-WARNING **: 21:44:58.630: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2802): Gtk-WARNING **: 21:44:58.630: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540406701856	Marionette	INFO	Listening on port 37599
+1540406701921	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540406702043	Marionette	DEBUG	[2147483649] Frame script loaded
+1540406702063	Marionette	DEBUG	[2147483649] Frame script registered
+1540406702155	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540406703896	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540406704125	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540406705168	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+[Parent 2802, Gecko_IOThread] WARNING: pipe error (67): Соединение разорвано другой стороной: file /build/firefox-IVlCbR/firefox-62.0.3+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540406729876	Marionette	INFO	Stopped listening on port 37599
+1540412662410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.M1XTdeAUfyPC"
+
+(firefox:2975): Gtk-WARNING **: 23:24:25.981: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:2975): Gtk-WARNING **: 23:24:25.981: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540412671263	Marionette	INFO	Listening on port 33859
+1540412671336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540412671489	Marionette	DEBUG	[2147483649] Frame script loaded
+1540412671565	Marionette	DEBUG	[2147483649] Frame script registered
+1540412671686	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540412672769	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540412673126	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540412675044	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540412683365	Marionette	DEBUG	[2147483654] Frame script loaded
+1540412683400	Marionette	DEBUG	[2147483654] Frame script registered
+1540412683510	Marionette	DEBUG	[4294967297] Frame script loaded
+1540412683514	Marionette	DEBUG	[4294967297] Frame script registered
+1540412707728	Marionette	INFO	Stopped listening on port 33859
+1540412715404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Nw5LAsjx3EAH"
+
+(firefox:3317): Gtk-WARNING **: 23:25:17.664: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3317): Gtk-WARNING **: 23:25:17.664: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540412721666	Marionette	INFO	Listening on port 36665
+1540412721806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540412721939	Marionette	DEBUG	[2147483649] Frame script loaded
+1540412721953	Marionette	DEBUG	[2147483649] Frame script registered
+1540412722018	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540412723120	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540412723383	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540412724714	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540412731923	Marionette	INFO	Stopped listening on port 36665
+1540412748418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.n6QUZmeoVzkF"
+
+(firefox:3518): Gtk-WARNING **: 23:25:50.985: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3518): Gtk-WARNING **: 23:25:50.985: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540412755206	Marionette	INFO	Listening on port 34609
+1540412755294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540412755454	Marionette	DEBUG	[2147483649] Frame script loaded
+1540412755463	Marionette	DEBUG	[2147483649] Frame script registered
+1540412755531	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540412757315	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540412757639	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540412759073	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540412763760	Marionette	INFO	Stopped listening on port 34609
